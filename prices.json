@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-19 21:48",
+  "updated": "2026-11-19 21:56",
   "rate": 89500,
   "items": [
     {
@@ -13,16 +13,6 @@
       "hidden": false
     },
     {
-      "id": "bread",
-      "name": "ربطة خبز",
-      "unit": "ربطة",
-      "cat": "اساسيات",
-      "lbp": 50000,
-      "prev": 45000,
-      "img": "",
-      "hidden": false
-    },
-    {
       "id": "benzine98",
       "name": "بنزين 98",
       "unit": "20 ليتر",
@@ -30,6 +20,16 @@
       "lbp": 1500000,
       "prev": 1510000,
       "img": "",
+      "hidden": false
+    },
+    {
+      "id": "bread",
+      "name": "ربطة خبز",
+      "unit": "ربطة",
+      "cat": "طعام",
+      "lbp": 60000,
+      "prev": 50000,
+      "img": "images\/bread_1795118200249.jpg",
       "hidden": false
     },
     {
