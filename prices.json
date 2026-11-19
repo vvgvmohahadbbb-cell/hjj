@@ -1,11 +1,56 @@
 {
-  "updated": "2026-11-19 (تجريبي)",
+  "updated": "2026-11-19 21:46",
   "rate": 89500,
   "items": [
-    {"id": "bread",     "name": "ربطة خبز",   "unit": "ربطة",    "cat": "أساسيات", "lbp": 45000,   "prev": 40000,   "img": "", "hidden": false},
-    {"id": "benzine95", "name": "بنزين 95",   "unit": "20 ليتر", "cat": "محروقات", "lbp": 1450000, "prev": 1450000, "img": "", "hidden": false},
-    {"id": "benzine98", "name": "بنزين 98",   "unit": "20 ليتر", "cat": "محروقات", "lbp": 1500000, "prev": 1510000, "img": "", "hidden": false},
-    {"id": "diesel",    "name": "مازوت",      "unit": "20 ليتر", "cat": "محروقات", "lbp": 1300000, "prev": 1300000, "img": "", "hidden": false},
-    {"id": "gas",       "name": "قارورة غاز", "unit": "قارورة",  "cat": "محروقات", "lbp": 1200000, "prev": 1200000, "img": "", "hidden": false}
+    {
+      "id": "benzine95",
+      "name": "بنزين 95",
+      "unit": "20 ليتر",
+      "cat": "محروقات",
+      "lbp": 1450000,
+      "prev": 1450000,
+      "img": "",
+      "hidden": false
+    },
+    {
+      "id": "bread",
+      "name": "ربطة خبز",
+      "unit": "ربطة",
+      "cat": "اساسيات",
+      "lbp": 50000,
+      "prev": 45000,
+      "img": "",
+      "hidden": false
+    },
+    {
+      "id": "benzine98",
+      "name": "بنزين 98",
+      "unit": "20 ليتر",
+      "cat": "محروقات",
+      "lbp": 1500000,
+      "prev": 1510000,
+      "img": "",
+      "hidden": false
+    },
+    {
+      "id": "diesel",
+      "name": "مازوت",
+      "unit": "20 ليتر",
+      "cat": "محروقات",
+      "lbp": 1300000,
+      "prev": 1300000,
+      "img": "",
+      "hidden": false
+    },
+    {
+      "id": "gas",
+      "name": "قارورة غاز",
+      "unit": "قارورة",
+      "cat": "محروقات",
+      "lbp": 1200000,
+      "prev": 1200000,
+      "img": "",
+      "hidden": false
+    }
   ]
 }
